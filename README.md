@@ -7,9 +7,9 @@
 - [Contributors](#contributors)
 
 ### Cyber Threat Maps
-- [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by Bitdefender.
-- [Imperva Live Threat Map](https://www.imperva.com/cyber-threat-attack-map/) - Cyberthreat Real Time Map by Thales.
-- [Kaspersky Cyberthreat live Map](https://cybermap.kaspersky.com/) - Cyberthreat Real Time Map by Kaspersky.
+- [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by [Bitdefender](https://www.bitdefender.com/).
+- [Imperva Cyber Threat Attack Map](https://www.imperva.com/cyber-threat-attack-map/) - Cyber Threat Attack Map by [Thales](https://cds.thalesgroup.com/).
+- [Kaspersky Cyberthreat Live Map](https://cybermap.kaspersky.com/) - Cyberthreat Live Map by [Kaspersky](https://www.kaspersky.com/).
 ### My Other Awesome Lists
 
 * [awesome-advanced-persistent-threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
