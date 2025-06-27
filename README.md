@@ -1,4 +1,4 @@
-# Awesome [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) 
+# Awesome [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
