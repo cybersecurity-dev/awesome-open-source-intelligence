@@ -1,5 +1,14 @@
 # Awesome [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+    <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    &nbsp;
+    <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
+</p>
+
 ## 📖 Contents
 - [Cyber Threat Maps](#cyber-threat-maps)
 - [My Other Awesome Lists](#my-other-awesome-lists)
