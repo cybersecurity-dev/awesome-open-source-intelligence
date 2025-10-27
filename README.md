@@ -1,4 +1,6 @@
 # Awesome [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
