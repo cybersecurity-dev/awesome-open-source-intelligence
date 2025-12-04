@@ -1,6 +1,6 @@
 <div align="center">
     
-# Awesome [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
