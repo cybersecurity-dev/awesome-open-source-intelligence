@@ -1,10 +1,10 @@
 <div align="center">
     
-# **`Awesome`** [Open](https://osintframework.com/) [Source](https://en.wikipedia.org/wiki/Open-source_intelligence) [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) ([OSINT](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Open](https://wikipedia.org/wiki/Open-source_intelligence) Source [Intelligence](https://www.sans.org/blog/what-is-open-source-intelligence/) (_[OSINT](https://osintframework.com/)_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUS6-mfp7AoK5Kbe0tCXzbz&si=X2LewjjbPhJcYAXc)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/OSINT/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -36,5 +36,5 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-open-source-intelligence/graphs/contributors)!
 
-[🔼 Back to top](#awesome-open-source-intelligence-)
+[🔼 Back to top](#awesome-open-source-intelligence-osint-)
 
