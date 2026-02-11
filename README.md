@@ -15,11 +15,45 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+<details>
+ 
+<summary>OSINT Framework</summary>
+
+```mermaid
+graph LR
+    Root(OSINT Framework) --- Username
+    Root --- Email[Email Address]
+    Root --- Domain[Domain Name]
+    Root --- IP[IP & MAC Address]
+    Root --- Media[Images / Videos / Docs]
+    Root --- Social[Social Networks]
+    Root --- People[People Search Engines]
+    Root --- Phone[Telephone Numbers]
+    Root --- Public[Public Records]
+    Root --- Transport[Transportation]
+    Root --- Geo[Geolocation Tools / Maps]
+    Root --- Search[Search Engines]
+    Root --- Forums[Forums / Blogs / IRC]
+    Root --- Archives
+    Root --- Metadata
+    Root --- Dark[Dark Web]
+    Root --- Classifieds
+    Root --- Tools
+    Root --- AI[AI Tools]
+    Root --- OpSec
+```
+</details>
+ 
+
+
 ## 📖 Contents
 - [Cyber Threat Maps](#cyber-threat-maps)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+
+
 
 ### Cyber Threat Maps
 - [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by [Bitdefender](https://www.bitdefender.com/).
