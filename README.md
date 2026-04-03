@@ -47,13 +47,17 @@ graph LR
 
 
 ## 📖 Contents
+- [Social Networks](#social-networks)
+- [Mobile OSINT](#mobile-osint)
 - [Cyber Threat Maps](#cyber-threat-maps)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 
+### Social Networks
 
+### Mobile OSINT
 
 ### Cyber Threat Maps
 - [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by [Bitdefender](https://www.bitdefender.com/).
