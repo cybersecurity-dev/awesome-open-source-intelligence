@@ -57,7 +57,9 @@ graph LR
 
 ### Social Networks
 
+
 ### Mobile OSINT
+
 
 ### Cyber Threat Maps
 - [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by [Bitdefender](https://www.bitdefender.com/).
@@ -65,6 +67,7 @@ graph LR
 - [Kaspersky Cyberthreat Live Map](https://cybermap.kaspersky.com/) - Cyberthreat Live Map by [Kaspersky](https://www.kaspersky.com/).
 
 ##
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
