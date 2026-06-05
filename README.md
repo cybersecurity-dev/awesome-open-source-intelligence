@@ -66,6 +66,9 @@ graph LR
 - [Imperva Cyber Threat Attack Map](https://www.imperva.com/cyber-threat-attack-map/) - Cyber Threat Attack Map by [Thales](https://cds.thalesgroup.com/).
 - [Kaspersky Cyberthreat Live Map](https://cybermap.kaspersky.com/) - Cyberthreat Live Map by [Kaspersky](https://www.kaspersky.com/).
 
+### OSINT Frameworks
+- [Maltego | OSINT & Cyber Investigations Platform](https://www.kali.org/tools/maltego/) - [Maltego](https://www.maltego.com/) is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format.
+
 ##
 
 ### My Other Awesome Lists
@@ -76,6 +79,9 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-open-source-intelligence/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-open-source-intelligence-osint-)
 
