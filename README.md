@@ -65,6 +65,7 @@ graph LR
 - [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by [Bitdefender](https://www.bitdefender.com/).
 - [Imperva Cyber Threat Attack Map](https://www.imperva.com/cyber-threat-attack-map/) - Cyber Threat Attack Map by [Thales](https://cds.thalesgroup.com/).
 - [Kaspersky Cyberthreat Live Map](https://cybermap.kaspersky.com/) - Cyberthreat Live Map by [Kaspersky](https://www.kaspersky.com/).
+- [Lionic Cyber Threat Map](https://www.lionic.com/threat-map/) - Cyber Threat Map by [Lionic ](https://www.lionic.com/company/about/)- Security Solution Provider.
 
 ### OSINT Frameworks
 - [Maltego | OSINT & Cyber Investigations Platform](https://www.kali.org/tools/maltego/) - [Maltego](https://www.maltego.com/) is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format.
