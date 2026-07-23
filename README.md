@@ -54,12 +54,14 @@ graph LR
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
-
 ### Social Networks
 
 
 ### Mobile OSINT
 
+
+### Books
+- [The OSINT Handbook: A practical guide to gathering and analyzing online information](https://www.amazon.com/OSINT-Handbook-practical-gathering-information-ebook/dp/B0CSSZ1JCL/)
 
 ### Cyber Threat Maps
 - [Bitdefender Cyberthreat Real-Time Map](https://threatmap.bitdefender.com/) - Cyberthreat Real Time Map by [Bitdefender](https://www.bitdefender.com/).
