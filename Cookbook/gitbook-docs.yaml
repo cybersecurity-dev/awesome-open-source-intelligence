@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: OSINT Cookbook
+  structure:
+    - type: space
+      key: cookbook
+      title: Cookbook
+      path: undefined
+      default: true
+      content:
+        directory: ./
