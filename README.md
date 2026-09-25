@@ -25,6 +25,108 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+mindmap
+  root((OSINT))
+
+    Reconnaissance
+      Amass
+      theHarvester
+      Recon-ng
+      Photon
+      Assetfinder
+
+    Infrastructure Intelligence
+      Shodan
+      Censys
+      ZoomEye
+      Netlas
+      FOFA
+
+    DNS Intelligence
+      SecurityTrails
+      DNSDumpster
+      ViewDNS
+      RiskIQ
+      crt.sh
+
+    Social Media Intelligence
+      Sherlock
+      WhatsMyName
+      Social Analyzer
+      Twint
+      Holehe
+
+    Email Intelligence
+      Hunter.io
+      EmailRep
+      HaveIBeenPwned
+      LeakCheck
+      DeHashed
+
+    GEOINT
+      Google Earth
+      Sentinel Hub
+      Wikimapia
+      OpenStreetMap
+      GeoSpy
+
+    Image Intelligence
+      Google Lens
+      Yandex Images
+      TinEye
+      ExifTool
+
+    Dark Web Intelligence
+      Ahmia
+      OnionSearch
+      DarkSearch
+
+    Threat Intelligence
+      VirusTotal
+      AlienVault OTX
+      URLScan
+      AbuseIPDB
+      Hybrid Analysis
+
+    Malware Intelligence
+      Any.Run
+      MalwareBazaar
+      VirusTotal
+      Joe Sandbox
+
+    Certificate Intelligence
+      crt.sh
+      Censys
+      Facebook CT
+
+    Maritime Intelligence
+      MarineTraffic
+      VesselFinder
+
+    Aviation Intelligence
+      ADSBexchange
+      FlightRadar24
+
+    Development Platforms
+      GitHub
+      GitLab
+      DockerHub
+
+    Intelligence Fusion
+      Maltego
+      SpiderFoot
+      Obsidian
+      Neo4j
+
+    Automation
+      Python
+      APIs
+      Scrapy
+      Playwright
+      Selenium
+```
+
 <details>
  
 <summary>OSINT Framework</summary>
