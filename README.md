@@ -168,9 +168,7 @@ graph LR
 
 ### Social Networks
 
-
 ### Mobile OSINT
-
 
 ### Books
 - [The OSINT Handbook: A practical guide to gathering and analyzing online information](https://www.amazon.com/OSINT-Handbook-practical-gathering-information-ebook/dp/B0CSSZ1JCL/)
@@ -183,6 +181,11 @@ graph LR
 
 ### OSINT Frameworks
 - [Maltego | OSINT & Cyber Investigations Platform](https://www.kali.org/tools/maltego/) - [Maltego](https://www.maltego.com/) is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format.
+
+### Other Awesome List
+- [Awesome Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
+
+
 
 ##
 
