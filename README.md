@@ -167,6 +167,10 @@ graph LR
 - [Contributors](#contributors)
 
 ### Social Networks
+- [IGDataHub](https://igdatahub.com/creators/) - Follower history, engagement rate and top posts for tracked public Instagram accounts.
+- [SnapDataHub](https://snapdatahub.com/) - Subscriber counts, Spotlight views and growth for public Snapchat creator profiles.
+- [TKMetrics](https://tkmetrics.com/) - TikTok creator analytics from public profiles: followers, engagement rate and plays.
+- [twtData](https://twtdata.com/) - Exports the followers or following of public X (Twitter) accounts, plus tweets, lists and Spaces, to CSV.
 
 ### Mobile OSINT
 
